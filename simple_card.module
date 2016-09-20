@@ -1,0 +1,8 @@
+<?php
+/**
+ * @file
+ * Code for the simple_card feature.
+ */
+
+include_once 'simple_card.features.inc';
+include_once 'includes/simple_card.ajax.inc';
